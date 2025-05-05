@@ -1,0 +1,88 @@
+task2.js:38 ---student Details
+task2.js:41 studentId: 1
+task2.js:41 name: kowsi
+task2.js:41 grade: 2
+task2.js:44 courses:math, zoology, botony
+task2.js:41 attendance: [object Object]
+task2.js:41 hobbies: [object Object]
+task2.js:38 ---student Details
+task2.js:41 studentId: 2
+task2.js:41 name: arun
+task2.js:41 grade: 5
+task2.js:44 courses:math, zoology, botony
+task2.js:41 attendance: [object Object]
+task2.js:41 hobbies: [object Object]
+task2.js:38 ---student Details
+task2.js:41 studentId: 3
+task2.js:41 name: nirmal
+task2.js:41 grade: 8
+task2.js:44 courses:math, zoology, botony
+task2.js:41 attendance: [object Object]
+task2.js:41 hobbies: [object Object]
+task2.js:38 ---student Details
+task2.js:41 studentId: 4
+task2.js:41 name: pavi
+task2.js:41 grade: 4
+task2.js:44 courses:math, zoology, botony
+task2.js:41 attendance: [object Object]
+task2.js:41 hobbies: [object Object]
+task2.js:55 
+----filter for grade---
+task2.js:38 ---student Details
+task2.js:41 studentId: 3
+task2.js:41 name: nirmal
+task2.js:41 grade: 8
+task2.js:44 courses:math, zoology, botony
+task2.js:41 attendance: [object Object]
+task2.js:41 hobbies: [object Object]
+task2.js:63 
+----find for studentId(2)
+task2.js:38 ---student Details
+task2.js:41 studentId: 2
+task2.js:41 name: arun
+task2.js:41 grade: 5
+task2.js:44 courses:math, zoology, botony
+task2.js:41 attendance: [object Object]
+task2.js:41 hobbies: [object Object]
+task2.js:91 
+-------Addcourse Student-----
+task2.js:84 course:Science,student by Id3
+task2.js:84 course:science,student by Id3
+task2.js:38 ---student Details
+task2.js:41 studentId: 3
+task2.js:41 name: nirmal
+task2.js:41 grade: 8
+task2.js:44 courses:math, zoology, botony, Science, science
+task2.js:41 attendance: [object Object]
+task2.js:41 hobbies: [object Object]
+task2.js:106 -----RemovaestudentId
+task2.js:100 student with id2
+task2.js:108 ----after removing student----
+task2.js:38 ---student Details
+task2.js:41 studentId: 1
+task2.js:41 name: kowsi
+task2.js:41 grade: 2
+task2.js:44 courses:math, zoology, botony
+task2.js:41 attendance: [object Object]
+task2.js:41 hobbies: [object Object]
+task2.js:38 ---student Details
+task2.js:41 studentId: 2
+task2.js:41 name: arun
+task2.js:41 grade: 5
+task2.js:44 courses:math, zoology, botony
+task2.js:41 attendance: [object Object]
+task2.js:41 hobbies: [object Object]
+task2.js:38 ---student Details
+task2.js:41 studentId: 3
+task2.js:41 name: nirmal
+task2.js:41 grade: 8
+task2.js:44 courses:math, zoology, botony, Science, science
+task2.js:41 attendance: [object Object]
+task2.js:41 hobbies: [object Object]
+task2.js:38 ---student Details
+task2.js:41 studentId: 4
+task2.js:41 name: pavi
+task2.js:41 grade: 4
+task2.js:44 courses:math, zoology, botony
+task2.js:41 attendance: [object Object]
+task2.js:41 hobbies: [object Object]
