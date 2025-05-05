@@ -2,7 +2,7 @@
 You are developing the core logic for a simplified e-commerce product 
 management system using native JavaScript. This system will handle a 
 collection of products, allowing you to perform various operations. 
-# 1. Data Structure: 
+1. Data Structure: 
 ● Each product is represented as an object with the following properties: 
 ○ productId: (number, unique identifier) 
 ○ name: (string) 
@@ -13,7 +13,7 @@ collection of products, allowing you to perform various operations.
 ○ tags: (array of strings) 
 ○ discount: (object, can be null or contain { type: string, value: number }) 
 ● You will work with an array of these product objects. 
-# 2. Functionality: 
+ 2. Functionality: 
 # ● Display Product Details: 
 ○ Create a function (using an arrow function) that takes a product 
 object and logs its details to the console in a user-friendly 
